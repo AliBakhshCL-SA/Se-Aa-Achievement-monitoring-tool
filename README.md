@@ -1,3 +1,5 @@
+<img width="1600" height="826" alt="صورة عرض لسعة الأسبوع الأول" src="https://github.com/user-attachments/assets/bac79445-d450-440a-b5bf-dcc842f3af7a" />
+<img width="1600" height="826" alt="صورة عرض لسعة الأسبوع الأول" src="https://github.com/user-attachments/assets/4562bad7-85e3-45de-a0d7-d44ce5df9c4a" />
 # Se-Aa-Achievement-monitoring-tool
 Made with the help of AI for a jonior developer to make his life easier and encorage him to work hard.
 And it worked! I've tried it and it really helped me alot and encoraged me to work, I've witnessed 20% more productivity + it makes it so easy to monitor what you did,
